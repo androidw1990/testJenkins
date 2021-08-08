@@ -1,10 +1,15 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
+<<<<<<< HEAD
  	
 //第一次修改   
 //第二次修改
 //第三次修改
+=======
+    //呵呵
+// 到家啊视频的
+>>>>>>> pr-temp
     repositories {
         igoogle()
         jcenter()
